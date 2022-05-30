@@ -1,0 +1,104 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body{
+  background-color: gold;
+}
+#Prva {
+  display: flex;
+  justify-content: center;
+}
+#ygo1 {
+  height: 360px;
+  width: 720px;
+}
+#ygo1:hover{
+  height:400px;
+  width:800px;
+}
+p{
+  font-size: 22px;
+  font-family: Times New Roman;
+}
+#p1 {
+  width: 600px;
+  padding: 20px;
+}
+#footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  height: 100px;
+  background-color:gray;
+  color: black;
+  display: flex;
+}
+#table{
+  width:30%;
+}
+#p2{
+  position:absolute;
+  left:1670px;
+  font-size:25px
+}
+#ygo2{
+  height:440px;
+  width:300px;
+}
+#ygo2:hover{
+  height: 484px;
+  width:330px;
+}
+#Druga{
+  display:flex;
+  justify-content: center;
+}
+#btn1{
+  position:absolute;
+  left:1400px;
+  top:360px;
+  height: 50px;
+  width:100px;
+}
+#Treča{
+  display:flex;
+  justify-content: center;
+}
+#ygo3{
+  height:250px;
+  width:500px;
+}
+#ygo3:hover{
+  height:300px;
+  width:600px;
+}
+#p3{
+  width: 600px;
+  padding:20px;
+}
+#ygo4{
+  height: 250px;
+  width: 400px;
+}
+#ygo4:hover{
+  height: 300px;
+  width: 480px;
+}
+#p4{
+  width: 600px;
+  padding:20px;
+}
+#ygo5{
+  height:300px;
+  width:360px;
+}
+#ygo5:hover{
+  height:400px;
+  width:480px;
+}
+#Cetvrta2 table{
+  margin-left: 450px;
+}
+
